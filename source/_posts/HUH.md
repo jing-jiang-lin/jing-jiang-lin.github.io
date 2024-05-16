@@ -14,4 +14,4 @@ tags:
 [jinjohn_lin](https://youtu.be/dQw4w9WgXcQ?si=3OUK9y9CTzjloQR2)
 
 ## 水豚
-![](https://i.imgur.com/EZpfpbN.jpg =410x)
+![](https://i.imgur.com/EZpfpbN.jpg)
